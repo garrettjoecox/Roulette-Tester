@@ -1,0 +1,23 @@
+{
+  "name": "roulette-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "colorslite": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garrettjoecox/Roulette-Tester.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garrettjoecox/Roulette-Tester/issues"
+  },
+  "homepage": "https://github.com/garrettjoecox/Roulette-Tester#readme"
+}
